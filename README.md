@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Akhona Ndaba, a Software Developer from South Africa </h1>
+<h1 align="center">Hi 👋 I'm Akhona Ndaba |Software Developer | Technology-Enthusiast | Problem Solver | Lifelong Learner </h1>
 
 <p align="center">I’m passionate about building full-stack applications, solving problems through code, and constantly learning new technologies.</p>
 
